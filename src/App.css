@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#update{
+  background:rgb(54, 54, 255)
+
+}
+#delete{
+  background:red
+}
+#add{
+  background:rgb(0, 181, 0)
+}
